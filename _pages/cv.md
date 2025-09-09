@@ -1,64 +1,37 @@
 ---
 layout: archive
-title: "CV"
+title: CV
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+# Curriculum Vitae
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
+- **2021.09 – Present**: Ph.D. in Computer Science, Central South University  
+  - Supervisor: Prof. Yongmin Zhang (National Young Talent)  
+  - Lab: Transparent Computing Lab, directed by Academician Yaoxue Zhang  
+  - Expected graduation: 2026  
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- **2024.05 – 2024.10**: Visiting Scholar, Rutgers University, ECE Dept.  
+  - Supervisor: Prof. Jennifer Chen (ACM/IEEE/NAI Fellow)  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **2017.09 – 2021.06**: B.Eng. in Mechanical Design & Automation, Central South University  
+  - Rank: 24/337 (Top 7.1%)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+---
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Research Areas
+- Acoustic sensing and vibration-based liquid material identification  
+- High-precision indoor localization with active/passive acoustic signals  
+- Resource scheduling and service deployment in edge computing  
+
+---
+
+## Selected Honors & Awards
+- Huawei Cup Graduate Mathematical Contest in Modeling, National 2nd Prize  
+- Yixian Cup South China “Smart+” Innovation Competition, Grand Prize  
+- MCM/ICM (Mathematical Contest in Modeling), International 1st Prize  
+- Central South University Excellent Graduate  
+- Multiple university scholarships (1st/2nd class, Enterprise-sponsored)
+
+---
